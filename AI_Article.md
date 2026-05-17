@@ -70,11 +70,15 @@ Według analiz branżowych:
 - rynek narzędzi AI dla programistów ma osiągnąć wartość **ponad 30 mld USD do 2030 roku**,
 - liczba projektów open-source wykorzystujących agentowe AI rośnie w tempie **ponad 40% rocznie**.
 
-## 3. [Tytuł trzeciej sekcji - np. Wyzwania, kontrowersje i aspekty prawne]
-*Zwrócenie uwagi na negatywne aspekty, przeszkody lub kontrowersje (np. kwestie praw autorskich, licencje).*
-* **[Problem 1]**: (np. naruszenia licencji i praw autorskich)
-* **[Problem 2]**: (np. korzystanie z darmowych zasobów w celach komercyjnych)
-* **[Problem 3]**: (np. brak przejrzystości dla użytkownika końcowego)
+## 3. Wyzwania etyczne i prawne: Generative AI a licencje Open Source
+
+Rozwój generatywnej sztucznej inteligencji w obszarze programowania opiera się na analizie ogromnych zbiorów danych. Trening modeli na miliardach linii publicznie dostępnego kodu budzi jednak poważne kontrowersje na styku prawa autorskiego, etyki i idei wolnego oprogramowania.
+
+Naruszenia licencji open-source i praw autorskich: Narzędzia AI (np. GitHub Copilot, Amazon CodeWhisperer) często generują fragmenty kodu tożsame z istniejącymi rozwiązaniami, pomijając przy tym kluczowe warunki licencji otwartego oprogramowania. Modele ignorują m.in. nakaz przypisania autorstwa (attribution) czy klauzule typu copyleft (np. w licencjach GPL), które wymagają, aby oprogramowanie pochodne również było udostępniane na tych samych, wolnych zasadach. W rezultacie twórcy tracą kontrolę nad swoim dorobkiem.
+
+Komercjalizacja darmowych zasobów: Kontrowersje budzi fakt, że giganci technologiczni budują płatne, zamknięte narzędzia komercyjne, wykorzystując jako "paliwo" darmową i społeczną pracę programistów open-source. Studenci mogą przeanalizować ten aspekt jako konflikt między ideą bezinteresownego dzielenia się wiedzą a dążeniem korporacji do monetyzacji cudzej pracy bez zgody autorów.
+
+Brak przejrzystości dla użytkownika końcowego: Programista korzystający z asystenta AI rzadko otrzymuje informację, skąd dokładnie pochodzi wygenerowany fragment kodu i na jakich zasadach został pierwotnie wydany. Stwarza to tzw. "czarną skrzynkę" i realne ryzyko prawne dla firm wdrażających takie rozwiązania – mogą one nieświadomie naruszyć prawa autorskie osób trzecich, wcielając wygenerowany przez AI kod do swoich komercyjnych produktów.
 
 ## 4. [Tytuł czwartej sekcji - np. Przyszłość i prognozy]
 *Jakie są dalsze kroki rozwoju technologii? Czego można się spodziewać w najbliższej przyszłości.*
