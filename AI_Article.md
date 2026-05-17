@@ -22,14 +22,15 @@
 * **[Problem 2]**: (np. korzystanie z darmowych zasobów w celach komercyjnych)
 * **[Problem 3]**: (np. brak przejrzystości dla użytkownika końcowego)
 
-## 4. [Tytuł czwartej sekcji - np. Przyszłość i prognozy]
-*Jakie są dalsze kroki rozwoju technologii? Czego można się spodziewać w najbliższej przyszłości.*
-*(Miejsce na konkretne zapowiedzi, np. nowe wersje oprogramowania)*
+4. Przyszłość i prognozy rozwoju sztucznej inteligencji
+
+Rozwój AI będzie koncentrował się na tworzeniu bardziej zaawansowanych i autonomicznych systemów. W najbliższych latach można spodziewać się rozwoju modeli wielomodalnych, lepszej personalizacji oraz nowych wersji narzędzi opartych na sztucznej inteligencji. Coraz częściej AI będzie integrowane z codziennymi aplikacjami i procesami biznesowymi.
 
 Wyzwania, przed którymi stoi ekosystem, to m.in.:
-* **[Wyzwanie technologiczne/biznesowe 1]**
-* **[Wyzwanie technologiczne/biznesowe 2]**
-* **[Wyzwanie technologiczne/biznesowe 3]**
+
+* wysokie koszty obliczeniowe i zużycie energii,
+* problemy związane z bezpieczeństwem i wiarygodnością odpowiedzi AI,
+* kwestie prawne i etyczne dotyczące prywatności oraz wykorzystania danych.
 
 ## Podsumowanie
 *Miejsce na wnioski końcowe. Zostawienie czytelnika z otwartym pytaniem lub podsumowaniem głównych myśli z artykułu.*
