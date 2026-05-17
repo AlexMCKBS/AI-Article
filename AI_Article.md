@@ -1,16 +1,3 @@
-# [TYTUŁ ARTYKUŁU: Wpisz proponowany tytuł]
-
-## Wstęp
-*Miejsce na wprowadzenie czytelnika w temat. Zarysuj główny problem lub zjawisko (np. integrację AI z narzędziami programistycznymi) i wyjaśnij, dlaczego jest to ważne.*
-
-## 1. [Tytuł pierwszej sekcji - np. Główne pojęcie / Nowa technologia]
-*Wprowadzenie kluczowych terminów (np. Agentic AI) i ich zastosowań w praktyce.*
-* **[Kluczowe zastosowanie 1]**: (np. automatyzacja procesów)
-* **[Kluczowe zastosowanie 2]**: (np. bezpieczeństwo i recenzje)
-* **[Kluczowe zastosowanie 3]**: (np. wsparcie w powtarzalnych zadaniach)
-
-# [TYTUŁ ARTYKUŁU: Wpisz proponowany tytuł]
-
 ## Wstęp
 *Miejsce na wprowadzenie czytelnika w temat. Zarysuj główny problem lub zjawisko (np. integrację AI z narzędziami programistycznymi) i wyjaśnij, dlaczego jest to ważne.*
 
