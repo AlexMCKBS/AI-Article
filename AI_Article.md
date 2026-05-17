@@ -1,4 +1,4 @@
-# [TYTUŁ ARTYKUŁU: Wpisz proponowany tytuł]
+# Od asystenta do współtwórcy: Ewolucja narzędzi AI w nowoczesnym programowaniu
 
 ## Wstęp
 *Miejsce na wprowadzenie czytelnika w temat. Zarysuj główny problem lub zjawisko (np. integrację AI z narzędziami programistycznymi) i wyjaśnij, dlaczego jest to ważne.*
