@@ -3,11 +3,11 @@
 ## Wstęp
 *Miejsce na wprowadzenie czytelnika w temat. Zarysuj główny problem lub zjawisko (np. integrację AI z narzędziami programistycznymi) i wyjaśnij, dlaczego jest to ważne.*
 
-## 1. [Tytuł pierwszej sekcji - np. Główne pojęcie / Nowa technologia]
-*Wprowadzenie kluczowych terminów (np. Agentic AI) i ich zastosowań w praktyce.*
-* **[Kluczowe zastosowanie 1]**: (np. automatyzacja procesów)
-* **[Kluczowe zastosowanie 2]**: (np. bezpieczeństwo i recenzje)
-* **[Kluczowe zastosowanie 3]**: (np. wsparcie w powtarzalnych zadaniach)
+## 1. Agentic AI: Kiedy algorytm staje się aktywnym uczestnikiem projektu
+Koncepcja **Agentic AI** stanowi przełomowy moment, w którym sztuczna inteligencja ewoluuje z prostego, pasywnego podpowiadacza kodu w proaktywnego agenta, biorącego czynny udział w procesie deweloperskim. Narzędzia z tej kategorii nie czekają już wyłącznie na polecenie programisty; potrafią samodzielnie analizować kontekst, podejmować decyzje i wykonywać złożone ciągi działań. W praktyce oznacza to wykorzystywanie agentów AI do takich zadań jak:
+* **Automatyczne przekształcanie zgłoszeń (issues) w propozycje zmian (merge requests)**: AI jest w stanie przeanalizować zgłoszony problem, wygenerować odpowiednią poprawkę w kodzie i samodzielnie zainicjować procedurę włączenia zmiany do głównej gałęzi projektu.
+* **Proaktywne naprawianie luk bezpieczeństwa i recenzje kodu**: Agenty potrafią w tle skanować tworzony kod w poszukiwaniu podatności, a następnie nie tylko je wskazać, ale wręcz od razu zaimplementować bezpieczne obejście lub poprawkę.
+* **Przejmowanie powtarzalnej pracy przy zachowaniu ludzkiej kontroli**: Programista może oddelegować żmudne zadania, zachowując jednocześnie ostateczny głos przy zatwierdzaniu efektów pracy sztucznej inteligencji (tzw. podejście "human-in-the-loop").
 
 ## 2. [Tytuł drugiej sekcji - np. Przykłady z rynku / Ekosystem rozwiązań]
 *Omówienie konkretnych platform i narzędzi wykorzystujących omawianą technologię (np. rozwiązania GitHub).*
